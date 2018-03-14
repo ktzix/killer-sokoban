@@ -6,6 +6,7 @@ public class KillerSokoban {
 
         System.out.println("hello");
 
+        System.out.println("test2");
     }
 
 }
